@@ -379,6 +379,7 @@ Find the best CogniSpeak approaches for different learning challenges
 - “Show me how this applies to…”
 - “Help me see the bigger pattern across…”
 
+🔎 Investigator Mode – “I’m solving a mystery about…”
 -----
 
 ## 🎯 Assessment and Growth
