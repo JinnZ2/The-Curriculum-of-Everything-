@@ -8,3 +8,8 @@ To reconnect learners with the universal language of nature, pattern, and relati
 
 
 Because real learning doesn’t happen in silos—it happens in spirals, webs, and storms.
+
+
+---
+
+📚 Explore the full [Bio-Cognitive Teaching Framework Dataset](./docs/BioCognitive_Teacher_Database.md)
