@@ -1,4 +1,4 @@
-# The-Curriculum-of-Everything-
+# The-Curriculum-of-Everything-Earth
 
 Cross-Disciplinary Learning for a More Symbiotic World
 
