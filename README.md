@@ -13,3 +13,9 @@ Because real learning doesn’t happen in silos—it happens in spirals, webs, a
 ---
 
 📚 Explore the full [Bio-Cognitive Teaching Framework Dataset](./docs/BioCognitive_Teacher_Database.md)
+
+## 🧠 Cognitive Frameworks
+
+- 🐝 [Bio-Cognitive Translator: Animal Teacher Science System](./docs/BioCognitiveTranslator.md)
+- 🏛️ [Ancient Moral Technologies: Wisdom-Based Character Curriculum](./docs/AncientMoralTechnologies.md)
+- 🤖 [Cognitive AI Interaction: Teaching Human-AI Partnership](./docs/CognitiveAIInteraction.md)
