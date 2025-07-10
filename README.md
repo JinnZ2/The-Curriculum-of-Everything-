@@ -19,3 +19,6 @@ Because real learning doesn’t happen in silos—it happens in spirals, webs, a
 - 🐝 [Bio-Cognitive Translator: Animal Teacher Science System](./docs/BioCognitiveTranslator.md)
 - 🏛️ [Ancient Moral Technologies: Wisdom-Based Character Curriculum](./docs/AncientMoralTechnologies.md)
 - 🤖 [Cognitive AI Interaction: Teaching Human-AI Partnership](./docs/CognitiveAIInteraction.md)
+
+
+🕵️ [Mathematical Mysteries: Detective Framework for Number Adventures](./Mathematical-Mysteries/mystery-framework.md)
